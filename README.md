@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 ## About the project
 
 This project demonstrates how to create a form that updates only the modified form field, rather than re-rendering the entire form.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/60dbcf75-a8a6-4d43-8f9f-51e4dd280303
+
